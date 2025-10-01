@@ -13,12 +13,13 @@
   background-size: cover; /* full area cover kare */
   background-position: center; /* center align */
   background-repeat: no-repeat;
-  background-attachment: scroll; /* fixed hatake scrollable */
+  background-attachment: fixed; /* fixed hatake scrollable */
 }
 
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .webGif {
+    background-attachment: scroll;
     height: 30vh; /* mobile ke liye thoda chota */
   }
 }
@@ -28,5 +29,6 @@
     /* border: 2px solid red; */
     width: 60vh;
     height: 25vh;
+    background-attachment: scroll;
   }
 }
