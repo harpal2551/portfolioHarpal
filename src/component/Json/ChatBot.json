@@ -8,6 +8,14 @@
     "language": "english",
     "keywords": ["who are you", "who r u", "who are u", "what is your name", "your name?", "ur name", "tell me your self"],
     "response": "My name is Harpal Singh and I am a Frontend ReactJS web developer."
+  },{
+    "language": "english",
+    "keywords": ["harpal", "harapal singh", "tarpal", "hrpal", "garpal",  "jarpal", "hrapal"],
+    "response": "Hey! i am harpal here...!"
+  },{
+    "language": "english",
+    "keywords": ["sahil", "shallu", "shil"],
+    "response": "Hey! i am harpal here. sahil is my nickname 😅."
   },
   {
     "language": "hinglish",
@@ -80,13 +88,68 @@
     "language": "hinglish",
     "keywords": ["contact", "apni details btao", "apni information btao"],
     "response": "Meri information jaise number, email, etc. sab resume me upload hai. Aap download kar sakte ho ya agar kisi specific info chahiye to type kar dijiye, for example 'number', 'email'."
+  },{
+    "language": "hinglish",
+    "keywords": ["fudu", "gandu", "fuddu", "ganddu", "kusa", "kussa"],
+    "response": "kya app galli de rhey hai? agar ha to mai ek gali mey pura khandaan chodd skta hu apka. kirpya jis kam k liye website bnai hai wahi swaal pushey."
+  },{
+    "language": "hinglish",
+    "keywords": ["bekar website", "bakwas", "bakwas website", "bakwaas site", "fuddu website", "fudu website", "bekar chatbot"],
+    "response": "itni bekar lg rhi hai website to khud bnaa le"
+  },{
+    "language": "hinglish",
+    "keywords": ["phonenumber", "phone number", "mobile number", "mobile", "nombr", "nmbr", "numbr", "contact number" , "number"],
+    "response": "7696158219"
+  },{
+    "language": "hinglish",
+    "keywords": ["email", "email id", "gamil", "eamil", "gmail id", "email id btao", "gmail id btao"],
+    "response": "harpal4460@gmail.com"
+  },{
+    "language": "hinglish",
+    "keywords": ["gmail password", "instagram password", "password", "pswd", "apna email password btao"],
+    "response": "😂 Apko sach mey lga mai password bta du ga"
+  },{
+    "language": "hinglish",
+    "keywords": ["aona password btao"],
+    "response": "konsa password"
+  },{
+    "language": "hinglish",
+    "keywords": ["tumhari best friend ka name", "tumhari best friend kon hai", "female best ka name"],
+    "response": "one legend says:- yeh batey btaai nhi jatii, nazzar lagg jati hai!"
+  },{
+    "language": "hinglish",
+    "keywords": ["tumhari girlfriend kon hai?", "gf kon hai?", "tumhari girlfriend"],
+    "response": "meri koi girlfriend nhi hai 😥 app bna do plzzzzzzz"
+  },{
+    "language": "hinglish",
+    "keywords": ["tumhari girlfriend ka name", "tumhari gf ka name", "gf ka name", "tumhari gf ka name kyahai", "tumhari saheli ka name", "gf da name ke e"],
+    "response": "girlfriend ka name pta honey k liye uska hona v jruri hai, jo filhaal abhi tk mili nhi 😥."
+  },{
+    "language": "hinglish",
+    "keywords": ["kya tum singel ho?", "kya tum singel ho", "tum singel ho", "you have girlfriend"],
+    "response": "mai singel he hu app yeh swaal push rhey ho kahi apko 👉🏽👈🏽🥹"
+  },{
+    "language": "hinglish",
+    "keywords": ["address", "location", "current location", "adress", "adrass", "permanent adderss"],
+    "response": "orignal address (pathankot) but i live in mohali."
+  },{
+    "language": "hinglish",
+    "keywords": ["date Of Birth", "dob", "janam date"],
+    "response": "10-OCT-2004"
+  },{
+    "language": "hinglish",
+    "keywords": ["instagram", "instagram id", "insta id", "id instagram"],
+    "response": "😅 wo mai nhi bta skta, jb company me milegey 👉🏽👈🏽 tb bta du ga 😅. kyuki yeh site kam k liye hai."
+  },{
+    "language": "hinglish",
+    "keywords": ["kya yeh site ai se bnai hai", "kya yeh site chatgpt se bnai hai"],
+    "response": "apko kya lgta hai dekh kr? mere talent pr shak hai apko 😥😟"
   },
   {
     "language": "english",
     "keywords": ["ok", "okie", "okk", "okay", "okei", "okkk", "okkkk", "ikk"],
     "response": "Meri information jaise number, email, etc. sab resume me upload hai. Aap download kar sakte ho ya agar kisi specific info chahiye to type kar dijiye, for example 'number', 'email'."
-  },
-  {
+  },{
     "language": "english",
     "keywords": [],
     "response": "The Answer of this question developer not assign"
