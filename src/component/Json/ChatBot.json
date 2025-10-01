@@ -2,12 +2,16 @@
   {
     "language": "english",
     "keywords": ["hi", "hello", "hey", "helo", "hy"],
-    "response": "Hello! How can I help you?"
+    "response": "Hello! Welcome To My Portfolio Site."
   },
   {
     "language": "english",
     "keywords": ["who are you", "who r u", "who are u", "what is your name", "your name?", "ur name", "tell me your self"],
     "response": "My name is Harpal Singh and I am a Frontend ReactJS web developer."
+  },{
+    "language": "english",
+    "keywords": ["tumhara name kya hai?", "tumhara name kya hai"],
+    "response": "mera name harpal singh hai."
   },{
     "language": "english",
     "keywords": ["harpal", "harapal singh", "tarpal", "hrpal", "garpal",  "jarpal", "hrapal"],
@@ -83,6 +87,22 @@
     "language": "english",
     "keywords": ["contact", "send your details", "your details", "information"],
     "response": "All my information like number, email, etc. is uploaded in my resume. You can download it, or if you want any specific info, just type it directly, for example 'number', 'email', etc."
+  },{
+    "language": "english",
+    "keywords": ["are you fresher", "are you fresher?", "you are fresher", "ur frsher"],
+    "response": "Yes, I am a fresher but I have done multiple projects and internships."
+  },{
+    "language": "english",
+    "keywords": ["do you know backend?", "you have any experince in backend,","which backend you used"],
+    "response": "in backend i have basic but good knowledge in express, nodejs, mongodb, postman"
+  },{
+    "language": "english",
+    "keywords": ["can you work in a team?"],
+    "response": "Yes! I love working in a team and collaborating on projects."
+  },{
+    "language": "english",
+    "keywords": ["can you join immediately?"],
+    "response": "Yes, I am available to join immediately."
   },
   {
     "language": "hinglish",
@@ -92,6 +112,10 @@
     "language": "hinglish",
     "keywords": ["fudu", "gandu", "fuddu", "ganddu", "kusa", "kussa"],
     "response": "kya app galli de rhey hai? agar ha to mai ek gali mey pura khandaan chodd skta hu apka. kirpya jis kam k liye website bnai hai wahi swaal pushey."
+  },{
+    "language": "hinglish",
+    "keywords": ["bond mrwa", "bond marwa", "bond mra"],
+    "response": "tuhi maraoooo "
   },{
     "language": "hinglish",
     "keywords": ["bekar website", "bakwas", "bakwas website", "bakwaas site", "fuddu website", "fudu website", "bekar chatbot"],
@@ -118,15 +142,15 @@
     "response": "one legend says:- yeh batey btaai nhi jatii, nazzar lagg jati hai!"
   },{
     "language": "hinglish",
-    "keywords": ["tumhari girlfriend kon hai?", "gf kon hai?", "tumhari girlfriend"],
+    "keywords": ["tumhari girlfriend kon hai?", "girlfriend", "gf kon hai?", "tumhari girlfriend"],
     "response": "meri koi girlfriend nhi hai 😥 app bna do plzzzzzzz"
   },{
     "language": "hinglish",
-    "keywords": ["tumhari girlfriend ka name", "tumhari gf ka name", "gf ka name", "tumhari gf ka name kyahai", "tumhari saheli ka name", "gf da name ke e"],
+    "keywords": ["tumhari girlfriend ka name", "tum hari girlfriend hai", "tumhari gf ka name", "gf ka name", "tumhari gf ka name kyahai", "tumhari saheli ka name", "gf da name ke e"],
     "response": "girlfriend ka name pta honey k liye uska hona v jruri hai, jo filhaal abhi tk mili nhi 😥."
   },{
     "language": "hinglish",
-    "keywords": ["kya tum singel ho?", "kya tum singel ho", "tum singel ho", "you have girlfriend"],
+    "keywords": ["kya tum singel ho?", "kya tum singel ho", "kya tum singel ho", "tum singel ho", "you have girlfriend"],
     "response": "mai singel he hu app yeh swaal push rhey ho kahi apko 👉🏽👈🏽🥹"
   },{
     "language": "hinglish",

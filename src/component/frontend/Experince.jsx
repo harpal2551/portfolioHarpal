@@ -13,7 +13,7 @@ function Experince() {
           <div className="cardExperince">
             <h3>Company : <span>Nexelix Tech PVT LTD</span></h3>
             <h3>Role : <span>ReactJS Developer</span></h3>
-            <h3>Work Duration : <span>6 Month</span></h3>
+            <h3>Work Duration : <span>6 Month As a Intership</span></h3>
           </div>
         </div>
       </div>
