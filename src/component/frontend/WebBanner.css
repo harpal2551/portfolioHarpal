@@ -25,7 +25,7 @@
 
 @media (max-width: 480px) {
   .webGif {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     width: 60vh;
     height: 25vh;
   }

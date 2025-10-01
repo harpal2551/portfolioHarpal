@@ -14,7 +14,7 @@ function Education() {
         <div className="educationContainer">
           <div className="educationDiv">
             {EducationJson.map((edu, index) => (
-              <div data-aos="zoom-in-left"
+              <div data-aos="zoom-in-up"
                 className={`educationItem ${
                   index % 2 === 0 ? "left" : "right"
                 }`}

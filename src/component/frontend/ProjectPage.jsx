@@ -42,7 +42,7 @@ useEffect(() => {
       </div>
       <div className="projectDiv">
         {Projects.slice(0, 8).map((proj, index) => (
-          <div className="projectDesign" key={index} data-aos="zoom-in-down">
+          <div className="projectDesign" key={index} data-aos="fade-down">
             <div className="projectGit">
               <div className="gitImg">
                 <img src={proj.image} alt={proj.title} />

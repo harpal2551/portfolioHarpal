@@ -1,20 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .educationContainerDiv {
-  /* border: 2px solid purple; */
-  /* background-color: #F5FFFA; */
-  background: #f5fffa;
   background: linear-gradient(
     180deg,
     rgba(245, 255, 250, 1) 71%,
     rgba(255, 255, 255, 1) 95%
   );
-  /* padding-bottom: 10vh; */
   height: fit-content;
-  padding: 2vh 0 6vh 0vh; /* thoda spacing */
+  padding: 2vh 0 6vh 0vh;
 }
 
 .educationDivHeading {
-  /* border: 3px solid blue; */
   display: flex;
   flex-direction: column;
   min-height: fit-content;
@@ -22,17 +22,15 @@
 
 .educationHeading {
   display: flex;
-  /* border: 2px solid red; */
   font-size: 5vh;
   justify-content: center;
-  padding: 1vh 0; /* content ke hisaab se height adjust hogi */
+  padding: 1vh 0;
   font-family: "Delius Swash Caps", cursive;
   font-weight: 400;
   font-style: normal;
 }
 
 .educationContainer {
-  /* border: 2px solid purple; */
   padding: 2vh 1vw;
   height: fit-content;
   font-family: "Arial", sans-serif;
@@ -55,26 +53,37 @@
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s;
+  margin: 0 auto; /* center default */
 }
 
 .educationItem:hover {
   transform: translateY(-3px);
 }
 
+/* Desktop positioning */
 .educationItem.left {
   align-self: flex-start;
   margin-left: 5%;
 }
-
 .educationItem.right {
   align-self: flex-end;
   margin-right: 5%;
 }
 
-/* Responsive for small screens */
+body {
+  overflow-x: hidden;
+}
+
+/* ✅ Responsive for small screens */
 @media (max-width: 768px) {
   .educationItem {
     width: 95%;
-    margin: 0 auto !important;
+    margin: 0 auto !important; /* force center */
+  }
+
+  .educationItem.left,
+  .educationItem.right {
+    margin: 0 auto !important; /* remove side margins */
+    align-self: center;        /* center align */
   }
 }
