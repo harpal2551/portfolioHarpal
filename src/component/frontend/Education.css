@@ -84,6 +84,17 @@ body {
   .educationItem.left,
   .educationItem.right {
     margin: 0 auto !important; /* remove side margins */
-    align-self: center;        /* center align */
+    align-self: center; /* center align */
   }
+  .educationItem.left {
+    align-self: flex-start;
+    margin-left: 5%;
+  }
+  .educationItem.right {
+    align-self: flex-end;
+    margin-right: 5%;
+  }
+  body {
+  overflow-x: hidden;
+}
 }
