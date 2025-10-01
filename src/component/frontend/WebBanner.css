@@ -1,0 +1,29 @@
+.webBanner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.webGif {
+  width: 100%; /* screen jitni width */
+  max-width: 100%; /* ensure it never exceeds screen */
+  height: 40vh; /* height viewport ke hisaab se */
+  background-image: url(https://maruf001-mt.github.io/Premium-Delivery/web.gif);
+  background-size: cover; /* full area cover kare */
+  background-position: center; /* center align */
+  background-repeat: no-repeat;
+  background-attachment: scroll; /* fixed hatake scrollable */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .webGif {
+    height: 30vh; /* mobile ke liye thoda chota */
+  }
+}
+
+@media (max-width: 480px) {
+  .webGif {
+    height: 25vh;
+  }
+}

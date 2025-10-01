@@ -1,0 +1,87 @@
+.aboutPageContainer {
+  background: linear-gradient(
+    180deg,
+    rgba(245, 255, 250, 1) 70%,
+    rgb(255, 255, 255) 93%
+  );
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2vh;
+}
+
+.twoLayer {
+  padding: 2vh 5vh;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 10vh;
+}
+
+.leftAbout h2 {
+  font-size: 10vh;
+  font-family: "Delius Unicase", cursive;
+  font-weight: 700;
+}
+
+.rightAboutCard {
+  border-radius: 3vh;
+  /* border: 2px solid red; */
+  width: 40vw;
+  max-width: 600px;
+  text-align: center;
+  box-shadow: 1px 0px 14px 5px rgba(0, 0, 0, 0.75);
+}
+
+.rightAboutCard h3 {
+  padding: 2vh 0 0 0;
+  font-family: "Pacifico", cursive;
+  font-size: 4vh;
+  font-weight: 600;
+}
+
+.rightAboutCard p {
+  padding: 2vh 3vh;
+  line-height: 1.5;
+  text-align: justify;
+  font-size: 2.2vh;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+/* ---------------- Responsive ----------------- */
+@media (max-width: 1024px) {
+  .twoLayer {
+    flex-direction: column;
+    gap: 5vh;
+  }
+
+  .leftAbout h2 {
+    font-size: 8vh;
+  }
+
+  .rightAboutCard {
+    width: 80%;
+  }
+
+  .rightAboutCard p {
+    /* border: 2px solid blue; */
+    font-size: 2vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .leftAbout h2 {
+    font-size: 6vh;
+  }
+
+  .rightAboutCard {
+    width: 85vw;
+  }
+  .rightAboutCard p {
+    /* border: 2px solid red; */
+    font-size: 1.8vh;
+    padding: 2vh 2vh;
+  }
+}

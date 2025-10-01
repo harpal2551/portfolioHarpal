@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Comic Zone",
+    "description": "This is a 'Comic Zone' website. When a user searches for a comic, it makes an API call and shows the comic content. It uses the Marvel API to get the data.",
+    "live_link": "https://harpal2551.github.io/game-zone/",
+    "git_link": "https://github.com/harpal2580/game-zone.git",
+    "image": "https://miro.medium.com/1*df6ad2ogSzGX9YIiX4dT_A.gif"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website showcasing my projects and skills.",
+    "live_link": "https://example.com/portfolio",
+    "git_link": "https://github.com/username/portfolio",
+    "image": "https://picsum.photos/400/300?random=1"
+  },
+  {
+    "title": "Todo App",
+    "description": "A simple React Todo app with add, edit, delete features.",
+    "live_link": "https://example.com/todo",
+    "git_link": "https://github.com/username/todo",
+    "image": "https://picsum.photos/400/300?random=2"
+  },
+  {
+    "title": "Weather App",
+    "description": "Shows current weather and forecast using OpenWeather API.",
+    "live_link": "https://example.com/weather",
+    "git_link": "https://github.com/username/weather",
+    "image": "https://picsum.photos/400/300?random=3"
+  },
+  {
+    "title": "E-commerce Website",
+    "description": "A frontend clone of an e-commerce store with cart functionality.",
+    "live_link": "https://example.com/shop",
+    "git_link": "https://github.com/username/shop",
+    "image": "https://picsum.photos/400/300?random=4"
+  },
+  {
+    "title": "Blog Platform",
+    "description": "A blog platform where users can create, edit, and delete posts.",
+    "live_link": "https://example.com/blog",
+    "git_link": "https://github.com/username/blog",
+    "image": "https://picsum.photos/400/300?random=5"
+  },
+  {
+    "title": "Chat App",
+    "description": "Real-time chat app using Socket.IO and Node.js backend.",
+    "live_link": "https://example.com/chat",
+    "git_link": "https://github.com/username/chat",
+    "image": "https://picsum.photos/400/300?random=6"
+  },
+  {
+    "title": "Fitness Tracker",
+    "description": "Track your workouts, calories and progress.",
+    "live_link": "https://example.com/fitness",
+    "git_link": "https://github.com/username/fitness",
+    "image": "https://picsum.photos/400/300?random=7"
+  },
+  {
+    "title": "Movie Finder",
+    "description": "Search and browse movies using TMDB API.",
+    "live_link": "https://example.com/movies",
+    "git_link": "https://github.com/username/movies",
+    "image": "https://picsum.photos/400/300?random=8"
+  },
+  {
+    "title": "Recipe App",
+    "description": "Find recipes and instructions from multiple cuisines.",
+    "live_link": "https://example.com/recipes",
+    "git_link": "https://github.com/username/recipes",
+    "image": "https://picsum.photos/400/300?random=9"
+  }
+]

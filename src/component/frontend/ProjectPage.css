@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Knewave&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Saira+Extra+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.projectMessage {
+  position: fixed;
+  /* border: 2px solid red; */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+  padding: 20px 30px;
+  border-radius: 10px;
+  font-size: 18px;
+  text-align: center;
+  z-index: 9999;
+  animation: fadeInOut 3s forwards;
+}
+
+@keyframes fadeInOut {
+  0% { opacity: 0; }
+  20% { opacity: 1; }
+  80% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.projectContiner {
+  /* border: 2px solid blue; */
+  /* background-color: #F0FFFF; */
+  /* background: #F0FFF0; */
+  background: #f0fff0;
+  background: linear-gradient(
+    180deg,
+    rgba(240, 255, 240, 1) 71%,
+    rgba(245, 255, 250, 1) 95%
+  );
+  padding-bottom: 3vh;
+  display: flex;
+  flex-direction: column;
+  height: fit-content;
+}
+.titleProject {
+  position: relative;
+  margin: 2vh 0vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: 2px solid green; */
+  /* font-family: "Ranchers", sans-serif; */
+
+  font-family: "Londrina Shadow", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  letter-spacing: 5px;
+
+  font-size: 6vh;
+  /* font-family: "Leckerli One", cursive;
+  font-weight: 400;
+  font-style: normal; */
+}
+.projectDiv {
+  /* border: 2px solid red; */
+  height: 100vh;
+  padding: 2vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-wrap: (3, 1fr);
+  justify-content: center;
+  gap: 10vh;
+}
+.projectDesign {
+  /* border: 2px solid blue; */
+  width: fit-content;
+  padding: 2vh 3vh;
+  border-radius: 2vh;
+  background-color: #ffffff;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  gap: 1vh;
+}
+.projectDiv {
+  /* border: 2px solid green; */
+  height: max-content;
+}
+.projectGit {
+  /* border: 2px solid brown; */
+  display: flex;
+  flex-direction: column;
+  width: 40vh;
+  gap: 1vh;
+}
+.projectGit img {
+  border-bottom: 1px solid black;
+  /* border: 2px solid blue; */
+  margin-bottom: 2vh;
+  width: 100%;
+}
+.projectGit .projectTitle h3 {
+  font-size: 4vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.projectGit .projectDesc p {
+  text-align: justify;
+}
+.projectBtn {
+  /* border: 2px solid blue; */
+  justify-content: last baseline;
+  display: flex;
+  justify-content: space-between;
+  padding: 1vh;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.projectBtn a {
+  text-decoration: none;
+  color: black;
+}
+.seeMoreProject {
+  display: flex;
+  padding: 1vh 2vh;
+  font-size: 3vh;
+  justify-content: right;
+  /* border: 2px solid red; */
+}
+.seeMoreProject p {
+  border-radius: 2vh;
+  border: 2px solid black;
+  padding: 1vh 2vh;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Mobile Responsive: show only 3 cards in column */
+@media (max-width: 768px) {
+  .projectDiv {
+    flex-direction: column;
+    align-items: center;
+    gap: 4vh;
+  }
+
+  .projectDesign:nth-child(n+4) {
+    display: none; /* 4th card ke baad hide */
+  }
+
+  .projectGit {
+    width: 80vw; /* mobile me container width adjust */
+  }
+}

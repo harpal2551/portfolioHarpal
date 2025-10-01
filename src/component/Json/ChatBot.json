@@ -1,0 +1,94 @@
+[
+  {
+    "language": "english",
+    "keywords": ["hi", "hello", "hey", "helo", "hy"],
+    "response": "Hello! How can I help you?"
+  },
+  {
+    "language": "english",
+    "keywords": ["who are you", "who r u", "who are u", "what is your name", "your name?", "ur name", "tell me your self"],
+    "response": "My name is Harpal Singh and I am a Frontend ReactJS web developer."
+  },
+  {
+    "language": "hinglish",
+    "keywords": ["tum kon ho", "tumhara nam", "tumhara name", "apne ware me btao", "apne warey me btao", "apna namebtao", "name kya hai"],
+    "response": "Mera name Harpal Singh hai aur mai ReactJS frontend web developer hu."
+  },
+  {
+    "language": "english",
+    "keywords": ["skills", "which skill", "which skills", "tell me your skills", "tell me your skill", "your skills", "skill"],
+    "response": "Frontend - ReactJS, HTML + CSS, Bootstrap, JavaScript. Backend - Express, NodeJS, MongoDB, Postman. I am mainly strong in frontend development."
+  },
+  {
+    "language": "hinglish",
+    "keywords": ["apni skills btao", "tumhari skill kya hai", "konsi skils pta hai"],
+    "response": "Frontend - ReactJS, HTML + CSS, Bootstrap, JavaScript. Backend - Express, NodeJS, MongoDB, Postman. Main mainly frontend me strong hu."
+  },{
+    "language": "English",
+    "keywords": ["means you are not backend developer", "means you have not knowledge of backend", "any experince in backend", "how much knowledge in backend" ],
+    "response": "i have basic knowledge in backend, like how to controll api how to fetch api data etc"
+  },{
+    "language": "hinglish",
+    "keywords": [ "apko backend ki knowledge nhi hai", "backend experince" ],
+    "response": "i have basic knowledge in backend, like how to controll api how to fetch api data etc"
+  },{
+    "language": "english",
+    "keywords": ["education", "what is your education", "what is your qualification", "qualification"],
+    "response": "I am a BCA student (Bachelor in Computer Application) and I also completed a 1-year DCA diploma."
+  },
+  {
+    "language": "hinglish",
+    "keywords": ["tumhari education kya hai", "kaha tk padai ki hai", "qualification kya hai"],
+    "response": "Mai ne BCA ki hai (Bachelor in Computer Application) aur 1 saal ka DCA diploma complete kiya hai."
+  },
+  {
+    "language": "english",
+    "keywords": ["experience", "how much experience", "work experience", "experinice", "work experince"],
+    "response": "Currently I have internship experience in ReactJS at Mohali. I have strong skills in frontend development."
+  },
+  {
+    "language": "hinglish",
+    "keywords": ["kitne sal ka experince hai", "experinice kya hai tumhare pass", "work experince btao apna", "experince related kuj btao"],
+    "response": "Currently mere pass internship experience hai ReactJS me, backend jaise 'Express, NodeJS, MongoDB, Postman' ke sath, lekin mera interest mainly frontend me hai."
+  },
+  {
+    "language": "english",
+    "keywords": ["salary", "how much salary", "how much salary do you want", "expect salary", "starting salary"],
+    "response": "I am expecting a starting salary of 15,000."
+  },
+  {
+    "language": "hinglish",
+    "keywords": ["kitni sallery chahiye", "kitni starting sallery chahtey ho", "sallery kitni chahoge"],
+    "response": "Mujhe starting 15,000 ki salary chahiye."
+  },
+  {
+    "language": "english",
+    "keywords": ["its too much", "its to much", "it's excessive", "you are fresher we cant pay much money to fresher"],
+    "response": "I know it's a lot and I am fresher, but thank you for spending time on my portfolio site with my ChatBOT AI. If I wasn’t a good developer, you might have just left, but you used it 😅. This shows my skills are good."
+  },
+  {
+    "language": "hinglish",
+    "keywords": ["yeh bahut jyada hai", "fresher ko itni sallery nhi dete hm", "fresher ko itni sallery nhi milti or appk pass experince v nhi hai"],
+    "response": "I know it's a lot and I am fresher, lekin thank you ke aapne mera portfolio site with my ChatBOT AI explore kiya. Agar mai capable developer nahi hota, to aap site chhod dete, par aapne use kiya 😅. Isse pata chalta hai ke meri skills achhi hain aur mujhe 15K milni chahiye."
+  },
+  {
+    "language": "english",
+    "keywords": ["contact", "send your details", "your details", "information"],
+    "response": "All my information like number, email, etc. is uploaded in my resume. You can download it, or if you want any specific info, just type it directly, for example 'number', 'email', etc."
+  },
+  {
+    "language": "hinglish",
+    "keywords": ["contact", "apni details btao", "apni information btao"],
+    "response": "Meri information jaise number, email, etc. sab resume me upload hai. Aap download kar sakte ho ya agar kisi specific info chahiye to type kar dijiye, for example 'number', 'email'."
+  },
+  {
+    "language": "english",
+    "keywords": [],
+    "response": "The Answer of this question developer not assign"
+  },
+  {
+    "language": "hinglish",
+    "keywords": [],
+    "response": "The Answer of this question developer not assign"
+  }
+]
