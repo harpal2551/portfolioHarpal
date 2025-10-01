@@ -83,6 +83,11 @@
   },
   {
     "language": "english",
+    "keywords": ["ok", "okie", "okk", "okay", "okei", "okkk", "okkkk", "ikk"],
+    "response": "Meri information jaise number, email, etc. sab resume me upload hai. Aap download kar sakte ho ya agar kisi specific info chahiye to type kar dijiye, for example 'number', 'email'."
+  },
+  {
+    "language": "english",
     "keywords": [],
     "response": "The Answer of this question developer not assign"
   },

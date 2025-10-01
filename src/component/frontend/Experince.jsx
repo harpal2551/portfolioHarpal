@@ -9,7 +9,7 @@ function Experince() {
         <div className="experinceHeading">
           <h3>Experince</h3>
         </div>
-        <div className="experinceCard">
+        <div className="experinceCard" data-aos="zoom-out">
           <div className="cardExperince">
             <h3>Company : <span>Nexelix Tech PVT LTD</span></h3>
             <h3>Role : <span>ReactJS Developer</span></h3>

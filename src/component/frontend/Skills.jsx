@@ -1,6 +1,7 @@
 import React from "react";
 import "./Skills.css";
 import SkillJson from "../Json/Skills.json";
+import { useEffect } from "react";
 
 function Skills() {
   return (
@@ -13,7 +14,7 @@ function Skills() {
           <div className="skill">
             <div className="skillCard">
               {SkillJson.map((skill, index) => (
-                <div className="skill1 reactDiv" key={index}>
+                <div className="skill1 reactDiv" key={index} data-aos="fade-up" >
                   <div className="skillInfo">
                     <h3>
                       Language : <span className="react span1">{skill.language}</span>
