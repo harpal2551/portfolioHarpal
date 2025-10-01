@@ -6,7 +6,7 @@ import Home from './component/frontend/Home'
 import ChatBot from './component/frontend/ChatBot';
 import AOS from "aos";
 import "aos/dist/aos.css";
-// import ComingSoonMessage from './component/frontend/ComingSoonMessage'
+import ComingSoonMessage from './component/frontend/ComingSoonMessage'
 
 function App() {
    useEffect(() => {
@@ -20,7 +20,7 @@ function App() {
     <>
     
     <Home />
-    {/* <ComingSoonMessage /> */}
+    <ComingSoonMessage />
     <ChatBot />
     </>
   )
