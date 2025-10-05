@@ -6,8 +6,16 @@
   },
   {
     "language": "english",
-    "keywords": ["who are you", "who r u", "who are u", "what is your name", "your name?", "ur name", "tell me your self"],
+    "keywords": ["who are you", "who are you?", "who r u", "who are u", "who are u?", "what is your name", "what is yur name", "what is your name?", "your name?", "ur name", "tell me your self"],
     "response": "My name is Harpal Singh and I am a Frontend ReactJS web developer."
+  },{
+    "language": "english",
+    "keywords": ["Can you please tell me about yourself?", "Can you please tell me about yourself", "tell me about yourself", "about yourself", "about you", "yourself", "your self"],
+    "response": "My name is Harpal Singh and I am a Frontend ReactJS web developer. I have done multiple projects and internships. I am mainly strong in frontend development. Currently I have internship experience in ReactJS at Mohali.  I have strong skills in frontend development."
+  },{
+    "language": "english",
+    "keywords": ["What are your greatest strengths?", "What are your greatest strengths", "greatest strengths", "your greatest strengths", "your strengths", "strengths", "strength"],
+    "response": "My greatest strengths are my problem-solving skills, attention to detail, and ability to work well in a team. I am also very adaptable and quick to learn new technologies."
   },{
     "language": "english",
     "keywords": ["tumhara name kya hai?", "tumhara name kya hai"],
@@ -154,7 +162,7 @@
     "response": "mai singel he hu app yeh swaal push rhey ho kahi apko 👉🏽👈🏽🥹"
   },{
     "language": "hinglish",
-    "keywords": ["address", "location", "current location", "adress", "adrass", "permanent adderss"],
+    "keywords": ["address", "location", "current location", "current location?", "adress", "adrass", "permanent adderss"],
     "response": "orignal address (pathankot) but i live in mohali."
   },{
     "language": "hinglish",
