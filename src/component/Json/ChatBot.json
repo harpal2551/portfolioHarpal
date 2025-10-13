@@ -1,187 +1,523 @@
 [
   {
     "language": "english",
-    "keywords": ["hi", "hello", "hey", "helo", "hy"],
+    "keywords": [
+      "hi",
+      "hello",
+      "hey",
+      "helo",
+      "hy"
+    ],
     "response": "Hello! Welcome To My Portfolio Site."
   },
   {
     "language": "english",
-    "keywords": ["who are you", "who are you?", "who r u", "who are u", "who are u?", "what is your name", "name", "what is yur name", "what is your name?", "your name?", "ur name", "tell me your self"],
+    "keywords": [
+      "who are you",
+      "who are you?",
+      "who r u",
+      "who are u",
+      "who are u?",
+      "what is your name",
+      "name",
+      "what is yur name",
+      "what is your name?",
+      "your name?",
+      "ur name",
+      "tell me your self"
+    ],
     "response": "My name is Harpal Singh and I am a Frontend ReactJS web developer."
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["Can you please tell me about yourself?", "Can you please tell me about yourself", "tell me about yourself", "about yourself", "about you", "yourself", "your self"],
+    "keywords": [
+      "Can you please tell me about yourself?",
+      "Can you please tell me about yourself",
+      "tell me about yourself",
+      "about yourself",
+      "about you",
+      "yourself",
+      "your self"
+    ],
     "response": "My name is Harpal Singh and I am a Frontend ReactJS web developer. I have done multiple projects and internships. I am mainly strong in frontend development. Currently I have internship experience in ReactJS at Mohali.  I have strong skills in frontend development."
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["What are your greatest strengths?", "What are your greatest strengths", "greatest strengths", "your greatest strengths", "your strengths", "strengths", "strength"],
+    "keywords": [
+      "What are your greatest strengths?",
+      "What are your greatest strengths",
+      "greatest strengths",
+      "your greatest strengths",
+      "your strengths",
+      "strengths",
+      "strength"
+    ],
     "response": "My greatest strengths are my problem-solving skills, attention to detail, and ability to work well in a team. I am also very adaptable and quick to learn new technologies."
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["tumhara name kya hai?", "tumhara name kya hai"],
+    "keywords": [
+      "tumhara name kya hai?",
+      "tumhara name kya hai"
+    ],
     "response": "mera name harpal singh hai."
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["harpal", "harapal singh", "tarpal", "hrpal", "garpal",  "jarpal", "hrapal"],
+    "keywords": [
+      "nice",
+      "nyc",
+      "nce",
+      "niice",
+      "niiiice",
+      "niicc",
+      "n1ce",
+      "great",
+      "gr8",
+      "greate",
+      "graet",
+      "grate",
+      "gret",
+      "g8",
+      "awesome",
+      "awsm",
+      "awsome",
+      "awesme",
+      "awseome",
+      "awesum",
+      "awseum",
+      "cool",
+      "coool",
+      "kewl",
+      "kul",
+      "c00l",
+      "cooool",
+      "amazing",
+      "amzing",
+      "amazin",
+      "amaze",
+      "amzingg",
+      "good",
+      "gud",
+      "goood",
+      "g00d",
+      "fantastic",
+      "fantstic",
+      "fantasic",
+      "fantstc",
+      "excellent",
+      "exellent",
+      "exelent",
+      "excelent",
+      "excelentt",
+      "perfect",
+      "perfct",
+      "perfact",
+      "perfc",
+      "wonderful",
+      "wnderful",
+      "wondrful",
+      "wondrful",
+      "wndrful",
+      "super",
+      "supr",
+      "soooper",
+      "superr",
+      "lovely",
+      "lovly",
+      "luvly",
+      "lovlee",
+      "niceeee",
+      "niiiiice",
+      "n1ceee",
+      "niiiicc"
+    ],
+    "response": "Thanks 🫶🏽"
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "harpal",
+      "harapal singh",
+      "tarpal",
+      "hrpal",
+      "garpal",
+      "jarpal",
+      "hrapal"
+    ],
     "response": "Hey! i am harpal here...!"
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["sahil", "shallu", "shil"],
+    "keywords": [
+      "sahil",
+      "shallu",
+      "shil"
+    ],
     "response": "Hey! i am harpal here. sahil is my nickname 😅."
   },
   {
     "language": "hinglish",
-    "keywords": ["tum kon ho", "tumhara nam", "tumhara name", "apne ware me btao", "apne warey me btao", "apna namebtao", "name kya hai"],
+    "keywords": [
+      "tum kon ho",
+      "tumhara nam",
+      "tumhara name",
+      "apne ware me btao",
+      "apne warey me btao",
+      "apna namebtao",
+      "name kya hai"
+    ],
     "response": "Mera name Harpal Singh hai aur mai ReactJS frontend web developer hu."
   },
   {
     "language": "english",
-    "keywords": ["skills", "which skill", "which skills", "tell me your skills", "tell me your skill", "your skills", "skill"],
+    "keywords": [
+      "skills",
+      "which skill",
+      "which skills",
+      "tell me your skills",
+      "tell me your skill",
+      "your skills",
+      "skill"
+    ],
     "response": "Frontend - ReactJS, HTML + CSS, Bootstrap, JavaScript. Backend - Express, NodeJS, MongoDB, Postman. I am mainly strong in frontend development."
   },
   {
     "language": "hinglish",
-    "keywords": ["apni skills btao", "tumhari skill kya hai", "konsi skils pta hai"],
+    "keywords": [
+      "apni skills btao",
+      "tumhari skill kya hai",
+      "konsi skils pta hai"
+    ],
     "response": "Frontend - ReactJS, HTML + CSS, Bootstrap, JavaScript. Backend - Express, NodeJS, MongoDB, Postman. Main mainly frontend me strong hu."
-  },{
+  },
+  {
     "language": "English",
-    "keywords": ["means you are not backend developer", "means you have not knowledge of backend", "any experince in backend", "how much knowledge in backend" ],
+    "keywords": [
+      "means you are not backend developer",
+      "means you have not knowledge of backend",
+      "any experince in backend",
+      "how much knowledge in backend"
+    ],
     "response": "i have basic knowledge in backend, like how to controll api how to fetch api data etc"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": [ "apko backend ki knowledge nhi hai", "backend experince" ],
+    "keywords": [
+      "apko backend ki knowledge nhi hai",
+      "backend experince"
+    ],
     "response": "i have basic knowledge in backend, like how to controll api how to fetch api data etc"
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["education", "what is your education", "what is your qualification", "qualification"],
+    "keywords": [
+      "education",
+      "what is your education",
+      "what is your qualification",
+      "qualification"
+    ],
     "response": "I am a BCA student (Bachelor in Computer Application) and I also completed a 1-year DCA diploma."
   },
   {
     "language": "hinglish",
-    "keywords": ["tumhari education kya hai", "kaha tk padai ki hai", "qualification kya hai"],
+    "keywords": [
+      "tumhari education kya hai",
+      "kaha tk padai ki hai",
+      "qualification kya hai"
+    ],
     "response": "Mai ne BCA ki hai (Bachelor in Computer Application) aur 1 saal ka DCA diploma complete kiya hai."
   },
   {
     "language": "english",
-    "keywords": ["experience", "how much experience", "work experience", "experinice", "work experince"],
+    "keywords": [
+      "experience",
+      "how much experience",
+      "work experience",
+      "experinice",
+      "work experince"
+    ],
     "response": "Currently I have internship experience in ReactJS at Mohali. I have strong skills in frontend development."
   },
   {
     "language": "hinglish",
-    "keywords": ["kitne sal ka experince hai", "experinice kya hai tumhare pass", "work experince btao apna", "experince related kuj btao"],
+    "keywords": [
+      "kitne sal ka experince hai",
+      "experinice kya hai tumhare pass",
+      "work experince btao apna",
+      "experince related kuj btao"
+    ],
     "response": "Currently mere pass internship experience hai ReactJS me, backend jaise 'Express, NodeJS, MongoDB, Postman' ke sath, lekin mera interest mainly frontend me hai."
   },
   {
     "language": "english",
-    "keywords": ["salary", "how much salary", "how much salary do you want", "expect salary", "starting salary"],
+    "keywords": [
+      "salary",
+      "how much salary",
+      "how much salary do you want",
+      "expect salary",
+      "starting salary"
+    ],
     "response": "I am expecting a starting salary of 15,000."
   },
   {
     "language": "hinglish",
-    "keywords": ["kitni sallery chahiye", "kitni starting sallery chahtey ho", "sallery kitni chahoge"],
+    "keywords": [
+      "kitni sallery chahiye",
+      "kitni starting sallery chahtey ho",
+      "sallery kitni chahoge"
+    ],
     "response": "Mujhe starting 15,000 ki salary chahiye."
   },
   {
     "language": "english",
-    "keywords": ["its too much", "its to much", "it's excessive", "you are fresher we cant pay much money to fresher"],
+    "keywords": [
+      "its too much",
+      "its to much",
+      "it's excessive",
+      "you are fresher we cant pay much money to fresher"
+    ],
     "response": "I know it's a lot and I am fresher, but thank you for spending time on my portfolio site with my ChatBOT AI. If I wasn’t a good developer, you might have just left, but you used it 😅. This shows my skills are good."
   },
   {
     "language": "hinglish",
-    "keywords": ["yeh bahut jyada hai", "fresher ko itni sallery nhi dete hm", "fresher ko itni sallery nhi milti or appk pass experince v nhi hai"],
+    "keywords": [
+      "yeh bahut jyada hai",
+      "fresher ko itni sallery nhi dete hm",
+      "fresher ko itni sallery nhi milti or appk pass experince v nhi hai"
+    ],
     "response": "I know it's a lot and I am fresher, lekin thank you ke aapne mera portfolio site with my ChatBOT AI explore kiya. Agar mai capable developer nahi hota, to aap site chhod dete, par aapne use kiya 😅. Isse pata chalta hai ke meri skills achhi hain aur mujhe 15K milni chahiye."
   },
   {
     "language": "english",
-    "keywords": ["contact", "send your details", "your details", "information"],
+    "keywords": [
+      "contact",
+      "send your details",
+      "your details",
+      "information"
+    ],
     "response": "All my information like number, email, etc. is uploaded in my resume. You can download it, or if you want any specific info, just type it directly, for example 'number', 'email', etc."
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["are you fresher", "are you fresher?", "you are fresher", "ur frsher"],
+    "keywords": [
+      "are you fresher",
+      "are you fresher?",
+      "you are fresher",
+      "ur frsher"
+    ],
     "response": "Yes, I am a fresher but I have done multiple projects and internships."
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["do you know backend?", "you have any experince in backend,","which backend you used"],
+    "keywords": [
+      "do you know backend?",
+      "you have any experince in backend,",
+      "which backend you used"
+    ],
     "response": "in backend i have basic but good knowledge in express, nodejs, mongodb, postman"
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["can you work in a team?"],
+    "keywords": [
+      "can you work in a team?"
+    ],
     "response": "Yes! I love working in a team and collaborating on projects."
-  },{
+  },
+  {
     "language": "english",
-    "keywords": ["can you join immediately?"],
+    "keywords": [
+      "can you join immediately?"
+    ],
     "response": "Yes, I am available to join immediately."
   },
   {
     "language": "hinglish",
-    "keywords": ["contact", "apni details btao", "apni information btao"],
+    "keywords": [
+      "contact",
+      "apni details btao",
+      "apni information btao"
+    ],
     "response": "Meri information jaise number, email, etc. sab resume me upload hai. Aap download kar sakte ho ya agar kisi specific info chahiye to type kar dijiye, for example 'number', 'email'."
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["fudu", "gandu", "fuddu", "ganddu", "kusa", "kussa"],
+    "keywords": [
+      "fudu",
+      "gandu",
+      "fuddu",
+      "ganddu",
+      "kusa",
+      "kussa"
+    ],
     "response": "kya app galli de rhey hai? agar ha to mai ek gali mey pura khandaan chodd skta hu apka. kirpya jis kam k liye website bnai hai wahi swaal pushey."
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["bond mrwa", "bond marwa", "bond mra"],
+    "keywords": [
+      "bond mrwa",
+      "bond marwa",
+      "bond mra"
+    ],
     "response": "tuhi maraoooo "
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["bekar website", "bakwas", "bakwas website", "bakwaas site", "fuddu website", "fudu website", "bekar chatbot"],
+    "keywords": [
+      "bekar website",
+      "bakwas",
+      "bakwas website",
+      "bakwaas site",
+      "fuddu website",
+      "fudu website",
+      "bekar chatbot"
+    ],
     "response": "itni bekar lg rhi hai website to khud bnaa le"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["phonenumber", "phone number", "mobile number", "mobile", "nombr", "nmbr", "numbr", "contact number" , "number"],
+    "keywords": [
+      "phonenumber",
+      "phone number",
+      "mobile number",
+      "mobile",
+      "nombr",
+      "nmbr",
+      "numbr",
+      "contact number",
+      "number"
+    ],
     "response": "7696158219"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["email", "email id", "gamil", "eamil", "gmail id", "email id btao", "gmail id btao"],
+    "keywords": [
+      "email",
+      "email id",
+      "gamil",
+      "eamil",
+      "gmail id",
+      "email id btao",
+      "gmail id btao"
+    ],
     "response": "harpal4460@gmail.com"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["gmail password", "instagram password", "password", "pswd", "apna email password btao"],
+    "keywords": [
+      "gmail password",
+      "instagram password",
+      "password",
+      "pswd",
+      "apna email password btao"
+    ],
     "response": "😂 Apko sach mey lga mai password bta du ga"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["aona password btao"],
+    "keywords": [
+      "aona password btao"
+    ],
     "response": "konsa password"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["tumhari best friend ka name", "tumhari best friend kon hai", "female best ka name"],
+    "keywords": [
+      "tumhari best friend ka name",
+      "tumhari best friend kon hai",
+      "female best ka name"
+    ],
     "response": "one legend says:- yeh batey btaai nhi jatii, nazzar lagg jati hai!"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["tumhari girlfriend kon hai?", "girlfriend", "gf kon hai?", "tumhari girlfriend"],
+    "keywords": [
+      "tumhari girlfriend kon hai?",
+      "girlfriend",
+      "gf kon hai?",
+      "tumhari girlfriend"
+    ],
     "response": "meri koi girlfriend nhi hai 😥 app bna do plzzzzzzz"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["tumhari girlfriend ka name", "tum hari girlfriend hai", "tumhari gf ka name", "gf ka name", "tumhari gf ka name kyahai", "tumhari saheli ka name", "gf da name ke e"],
+    "keywords": [
+      "tumhari girlfriend ka name",
+      "tum hari girlfriend hai",
+      "tumhari gf ka name",
+      "gf ka name",
+      "tumhari gf ka name kyahai",
+      "tumhari saheli ka name",
+      "gf da name ke e"
+    ],
     "response": "girlfriend ka name pta honey k liye uska hona v jruri hai, jo filhaal abhi tk mili nhi 😥."
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["kya tum singel ho?", "kya tum singel ho", "kya tum singel ho", "tum singel ho", "you have girlfriend"],
+    "keywords": [
+      "kya tum singel ho?",
+      "kya tum singel ho",
+      "kya tum singel ho",
+      "tum singel ho",
+      "you have girlfriend"
+    ],
     "response": "mai singel he hu app yeh swaal push rhey ho kahi apko 👉🏽👈🏽🥹"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["address", "location", "current location", "current location?", "adress", "adrass", "permanent adderss"],
+    "keywords": [
+      "address",
+      "location",
+      "current location",
+      "current location?",
+      "adress",
+      "adrass",
+      "permanent adderss"
+    ],
     "response": "orignal address (pathankot) but i live in mohali."
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["date Of Birth", "dob", "janam date"],
+    "keywords": [
+      "date Of Birth",
+      "dob",
+      "janam date"
+    ],
     "response": "10-OCT-2004"
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["instagram", "instagram id", "insta id", "id instagram"],
+    "keywords": [
+      "instagram",
+      "instagram id",
+      "insta id",
+      "id instagram"
+    ],
     "response": "😅 wo mai nhi bta skta, jb company me milegey 👉🏽👈🏽 tb bta du ga 😅. kyuki yeh site kam k liye hai."
-  },{
+  },
+  {
     "language": "hinglish",
-    "keywords": ["kya yeh site ai se bnai hai", "kya yeh site chatgpt se bnai hai"],
+    "keywords": [
+      "kya yeh site ai se bnai hai",
+      "kya yeh site chatgpt se bnai hai"
+    ],
     "response": "apko kya lgta hai dekh kr? mere talent pr shak hai apko 😥😟"
   },
   {
     "language": "english",
-    "keywords": ["ok", "okie", "okk", "okay", "okei", "okkk", "okkkk", "ikk"],
+    "keywords": [
+      "ok",
+      "okie",
+      "okk",
+      "okay",
+      "okei",
+      "okkk",
+      "okkkk",
+      "ikk"
+    ],
     "response": "Meri information jaise number, email, etc. sab resume me upload hai. Aap download kar sakte ho ya agar kisi specific info chahiye to type kar dijiye, for example 'number', 'email'."
-  },{
+  },
+  {
     "language": "english",
     "keywords": [],
     "response": "The Answer of this question developer not assign"
@@ -190,5 +526,466 @@
     "language": "hinglish",
     "keywords": [],
     "response": "The Answer of this question developer not assign"
+  },
+
+
+
+
+  // delete this line 
+
+  {
+    "language": "english",
+    "keywords": [
+      "why should we hire you",
+      "why should i hire you",
+      "why company hire you",
+      "hire you reason",
+      "why hire you"
+    ],
+    "response": "You should hire me because I have strong frontend development skills, a problem-solving mindset, and the ability to quickly adapt to new challenges."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what are your weaknesses",
+      "your weaknesses",
+      "weakness",
+      "tell me your weakness",
+      "share your weakness"
+    ],
+    "response": "Sometimes I focus too much on perfection, which can slow me down, but I’m improving my balance between quality and speed."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "where do you see yourself in 5 years",
+      "5 years goal",
+      "future goal",
+      "career goal",
+      "long term goal"
+    ],
+    "response": "In 5 years, I see myself as a skilled senior frontend developer leading creative web projects in a reputed company."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what motivates you",
+      "motivation",
+      "motivates you at work",
+      "what inspires you"
+    ],
+    "response": "Solving real-world problems and creating user-friendly designs motivate me the most."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what are your hobbies",
+      "hobbies",
+      "your hobbies",
+      "interests",
+      "what do you like to do"
+    ],
+    "response": "I enjoy video editing, learning new frontend frameworks, and listening to music."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you handle pressure",
+      "work under pressure",
+      "pressure situations",
+      "stress handling"
+    ],
+    "response": "I handle pressure by staying calm, breaking tasks into smaller goals, and focusing on one step at a time."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "describe yourself in one word",
+      "one word for yourself",
+      "single word describe you"
+    ],
+    "response": "Dedicated."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what are your achievements",
+      "your biggest achievement",
+      "personal achievements",
+      "professional achievement"
+    ],
+    "response": "My biggest achievement is successfully completing multiple live projects during my internship with positive feedback from clients."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what is your biggest failure",
+      "failure experience",
+      "failure lesson",
+      "tell me about failure"
+    ],
+    "response": "Once I missed a project deadline due to overplanning, but it taught me how to manage time and prioritize effectively."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you handle criticism",
+      "feedback handling",
+      "criticism reaction"
+    ],
+    "response": "I take criticism positively and use it to improve my skills and work quality."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what kind of environment do you prefer",
+      "work environment",
+      "team environment"
+    ],
+    "response": "I prefer a collaborative and growth-oriented environment where everyone learns and shares ideas."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what are your career goals",
+      "career objectives",
+      "career path"
+    ],
+    "response": "My career goal is to become a professional full-stack web developer with expertise in ReactJS and modern technologies."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what do you know about our company",
+      "about our company",
+      "why this company"
+    ],
+    "response": "Your company focuses on innovation and growth, which aligns with my goal to contribute to impactful projects."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "are you willing to relocate",
+      "ready to relocate",
+      "relocation",
+      "can you relocate"
+    ],
+    "response": "Yes, I am open to relocation if required for the growth of my career."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "are you comfortable with night shifts",
+      "night shift",
+      "can you work at night"
+    ],
+    "response": "I prefer day shifts, but I can adjust to night shifts if required for the project."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you handle conflicts",
+      "team conflict",
+      "disagreement in team"
+    ],
+    "response": "I listen to all sides calmly and find a solution that benefits the whole team."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you stay updated with technology",
+      "stay updated",
+      "keep up with trends"
+    ],
+    "response": "I follow tech blogs, YouTube tutorials, and practice new frameworks through small projects."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "do you prefer working alone or in a team",
+      "team or individual work",
+      "work preference"
+    ],
+    "response": "I enjoy both, but teamwork helps me learn and share better ideas."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you prioritize tasks",
+      "task management",
+      "time management"
+    ],
+    "response": "I prioritize tasks by urgency and impact, using to-do lists and realistic deadlines."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what do you do in free time",
+      "free time activities",
+      "spare time"
+    ],
+    "response": "I explore new design ideas, edit videos, and learn about emerging tech tools."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what makes you unique",
+      "unique about you",
+      "different from others"
+    ],
+    "response": "My creativity and consistency make me stand out, especially when solving real UI challenges."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what is your strength in coding",
+      "coding strength",
+      "best skill in coding"
+    ],
+    "response": "I am strongest in creating responsive and interactive UI using ReactJS and JavaScript."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "do you have leadership qualities",
+      "leadership skills",
+      "are you a leader"
+    ],
+    "response": "Yes, I like guiding teammates and ensuring everyone contributes to project success."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what kind of projects have you done",
+      "project experience",
+      "past projects"
+    ],
+    "response": "I’ve created multiple ReactJS-based projects like a Resume Generator, Virtual Card Bot, and Dynamic To-Do List."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what challenges have you faced",
+      "biggest challenge",
+      "how you handled challenges"
+    ],
+    "response": "Debugging complex logic in React was one challenge, but breaking it down step-by-step helped me fix it efficiently."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "do you take initiative",
+      "initiative examples",
+      "take initiative at work"
+    ],
+    "response": "Yes, I always take initiative to improve design or code quality wherever possible."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what do you expect from company",
+      "expectations from job",
+      "company expectations"
+    ],
+    "response": "I expect a learning-focused environment with opportunities to grow my skills and contribute meaningfully."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you manage deadlines",
+      "tight deadlines",
+      "meeting deadlines"
+    ],
+    "response": "I plan ahead, prioritize efficiently, and communicate early if I foresee any delay."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what is your biggest learning",
+      "lesson learned",
+      "biggest learning experience"
+    ],
+    "response": "My biggest learning is that consistency and practice matter more than just talent."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "are you flexible with timing",
+      "flexible timing",
+      "timing adjustment"
+    ],
+    "response": "Yes, I can adjust my working hours if it benefits the project or team."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you handle failure",
+      "failure handling",
+      "fail situations"
+    ],
+    "response": "I take failures as feedback and use them to improve my strategy and workflow."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what is your working style",
+      "work style",
+      "style of working"
+    ],
+    "response": "I follow a structured, clean, and deadline-oriented working style focused on quality output."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you ensure quality work",
+      "quality assurance",
+      "maintain quality"
+    ],
+    "response": "I test every feature thoroughly and seek feedback before final submission."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you manage time",
+      "time management skills",
+      "organize work"
+    ],
+    "response": "I divide large tasks into smaller milestones and track progress using checklists."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you deal with mistakes",
+      "mistake handling",
+      "error management"
+    ],
+    "response": "I identify the cause quickly, fix it, and make sure it doesn’t repeat again."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how would you describe your communication skills",
+      "communication skill",
+      "are you good communicator"
+    ],
+    "response": "Yes, I have good communication skills and can explain technical ideas in simple terms."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you adapt to change",
+      "adaptability",
+      "handle change"
+    ],
+    "response": "I embrace change as part of learning and stay flexible with new tools and processes."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "do you have any questions for us",
+      "any questions",
+      "want to ask us"
+    ],
+    "response": "Yes! I’d love to know about the technologies your team is currently working with."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what is your dream company",
+      "dream company",
+      "ideal company"
+    ],
+    "response": "My dream company is one that values creativity, innovation, and developer growth."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what do you think about teamwork",
+      "importance of teamwork",
+      "teamwork value"
+    ],
+    "response": "Teamwork is essential because it allows sharing ideas and achieving goals faster."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you stay productive",
+      "productivity tips",
+      "stay focused"
+    ],
+    "response": "I avoid multitasking, set daily goals, and take short breaks to stay focused."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what is your working hours preference",
+      "preferred working hours",
+      "time preference"
+    ],
+    "response": "I prefer standard working hours but can adjust based on project needs."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what type of projects interest you",
+      "favorite project type",
+      "interesting projects"
+    ],
+    "response": "I love interactive and user-friendly frontend projects where I can experiment with UI design."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you plan your day",
+      "daily routine",
+      "work routine"
+    ],
+    "response": "I start with a task list, prioritize by importance, and review progress at day’s end."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what inspires you to work in tech",
+      "why tech field",
+      "why coding"
+    ],
+    "response": "Technology gives me the power to turn creative ideas into real, working solutions."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what is your biggest strength as developer",
+      "developer strength",
+      "your strong side"
+    ],
+    "response": "My biggest strength is writing clean, optimized, and reusable frontend code."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you manage feedback",
+      "feedback from manager",
+      "taking feedback"
+    ],
+    "response": "I welcome feedback and use it to continuously improve my technical and soft skills."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "how do you manage multitasking",
+      "multitasking skills",
+      "handle multiple projects"
+    ],
+    "response": "I focus on one task at a time and use productivity tools to keep projects organized."
+  },
+  {
+    "language": "english",
+    "keywords": [
+      "what are your technical strengths",
+      "technical skills",
+      "tech stack"
+    ],
+    "response": "ReactJS, JavaScript, HTML, CSS, and Node.js — these are my core technical strengths."
   }
+
 ]
