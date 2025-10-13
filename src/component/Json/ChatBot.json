@@ -526,14 +526,7 @@
     "language": "hinglish",
     "keywords": [],
     "response": "The Answer of this question developer not assign"
-  },
-
-
-
-
-  // delete this line 
-
-  {
+  },{
     "language": "english",
     "keywords": [
       "why should we hire you",
