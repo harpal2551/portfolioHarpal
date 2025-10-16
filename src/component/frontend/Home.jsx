@@ -9,6 +9,7 @@ import ProjectPage from './ProjectPage'
 // import Link from 'react-router-dom'
 import Education from './Education';
 import Experince from './Experince'
+import ContactInfo from './ContactInfo'
 
 function Home() {
   return (
@@ -32,6 +33,7 @@ function Home() {
     <ProjectPage />
     <Education />
     <Experince />
+    <ContactInfo />
     </>
   )
 }
