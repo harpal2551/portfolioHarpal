@@ -73,9 +73,6 @@ function ContactInfo() {
           <div className="form-group">
             <input type="text" placeholder="Your Name" name="name" required />
           </div>
-          <div className="form-group">
-            <input type="tel" placeholder="+91 (XXX) XXX-XAX" name="phone" />
-          </div>
           <div className="form-group message-group">
             <textarea
               placeholder="Type your message here..."
