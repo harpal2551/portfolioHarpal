@@ -1,6 +1,7 @@
 import React from 'react'
 import './Home.css'
-import Resume from '../media/Resume_Harpal.pdf'
+// import Resume from '../media/Resume_Harpal.pdf'
+import Resume from '../media/reactJSdeveloper.pdf'
 import About from './About'
 import Skills from './Skills'
 import WebBanner from './WebBanner'
