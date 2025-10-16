@@ -4,13 +4,13 @@
     "description": "This is a 'Comic Zone' website. When a user searches for a comic, it makes an API call and shows the comic content. It uses the Marvel API to get the data.",
     "live_link": "https://harpal2551.github.io/game-zone/",
     "git_link": "https://github.com/harpal2580/game-zone.git",
-    "image": "https://shot.screenshotapi.net/v3/screenshot?token=0N1431C-XMH49PV-NWJE6TF-FXBGQSG&fresh=true&url=https%3A%2F%2Fharpal2551.github.io%2Fgame-zone%2F&output=image&file_type=png&wait_for_event=load"
+    "image": "https://image.thum.io/get/https://harpal2551.github.io/game-zone/"
   },
   {
     "title": "eCommerce",
     "description": "This is an eCommerce website built using ReactJS, Express, and MongoDB. It is hosted for free, so initial loading may take a little time, but all features work perfectly.",
     "live_link": "https://ecommerce-b64u.onrender.com",
     "git_link": "https://github.com/harpal2551/eCommerce.git",
-    "image": "https://shot.screenshotapi.net/v3/screenshot?token=0N1431C-XMH49PV-NWJE6TF-FXBGQSG&fresh=true&url=https%3A%2F%2Fecommerce-b64u.onrender.com%2F&output=image&file_type=png&wait_for_event=load"
+    "image": "https://image.thum.io/get/https://ecommerce-b64u.onrender.com/"
   }
 ]
