@@ -20,7 +20,7 @@ function Home() {
                 <p>ReactJS Developer</p>
             </div>
             <div className="homeResumeBtn">
-                <a href={Resume} download="Harpal_Singh_Resume.pdf">
+                <a href={Resume} download="Harpal_ReactJS_Developer.pdf">
                 <button type='downlooad' className="homeResumeButton">Download</button>
                 </a>
             </div>
