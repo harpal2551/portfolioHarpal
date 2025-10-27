@@ -1,42 +1,34 @@
 [
   {
     "language": "ReactJS",
-    "knowledge": "6 Month",
     "skillLevel": "Intermediate"
   },
   {
     "language": "MongoDB",
-    "knowledge": "4 Months",
     "skillLevel": "Intermediate"
   },
   {
     "language": "Express",
-    "knowledge": "5 Months",
     "skillLevel": "Intermediate"
   },
   {
     "language": "NodeJS",
-    "knowledge": "4 Months",
     "skillLevel": "Intermediate"
   },
   {
     "language": "Bootstrap",
-    "knowledge": "8 Months",
     "skillLevel": "Expert"
   },
   {
     "language": "JavaScript",
-    "knowledge": "5 Months",
     "skillLevel": "Expert"
   },
   {
     "language": "CSS",
-    "knowledge": "2 Years",
     "skillLevel": "Expert"
   },
   {
     "language": "HTML",
-    "knowledge": "2 Years",
     "skillLevel": "Expert"
   }
 ]

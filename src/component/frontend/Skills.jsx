@@ -19,10 +19,10 @@ function Skills() {
                     <h3>
                       Language : <span className="react span1">{skill.language}</span>
                     </h3>
-                    <h3>
+                    {/* <h3>
                       Knoweldge :{" "}
                       <span className="react span1">{skill.knowledge}</span>
-                    </h3>
+                    </h3> */}
                     <h3>
                       Skill Level : <span>{skill.skillLevel}</span>
                     </h3>
